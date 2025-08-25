@@ -19,3 +19,6 @@ Used Power Query Editor in Excel to create a data cleaning template to apply to 
 
 - Exported clean worksheets into a .CSV file for data import into BigQuery (SQL) for manipulation
 
+**Applied Steps In Power Query**
+<img width="1919" height="626" alt="image" src="https://github.com/user-attachments/assets/ef5de8b7-754e-47af-9b85-934cb469876e" />
+
