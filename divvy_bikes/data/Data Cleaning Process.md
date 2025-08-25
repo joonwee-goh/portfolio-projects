@@ -1,6 +1,7 @@
 ## Documentation of Cleaning Process
 
 **Cleaning Process**
+
 Used Power Query Editor in Excel to create a data cleaning template to apply to each month by changing the data source step. 
 
 **Added**: 
