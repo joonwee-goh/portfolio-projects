@@ -1,6 +1,6 @@
 <img width="300" height="85" alt="image" src="https://github.com/user-attachments/assets/64931e28-781c-4467-9a44-12fd6bedefa7" />
 
-# 📊 Divvy Bikes
+# Divvy Bikes
 
 ### 📁 Overview
 This folder contains materials created for my Google Data Analytics capstone project. It documents my thought process throughout the phases of data cleaning, using SQL to query the relational database system (used BigQuery), and finally presenting the insights through data visualisations in Tableau.  
@@ -42,6 +42,7 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 🔗 View interactive dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/joon.wee.goh/viz/GoogleCapstone-Divvy/CasualUsersDashboard)
 
 📸 Dashboard Preview Screenshot:
+
 <img width="520" height="400" alt="image" src="https://github.com/user-attachments/assets/7000f511-688a-46dd-8f18-cf1d483683f6" />
 
 
@@ -56,14 +57,14 @@ Download the full 1-page summary:
 
 ### 💡 What I Learned
 
-- Improved skills in data wrangling using pandas
-- Learned how to design dashboards focused on KPIs
-- Practiced creating business-facing summaries
+- Applied skills in data cleaning on a real, large-scale dataset
+- Improved on creating data visualisations in Tableau
+- Recognised first hand how subconscious biases can affect the data analysis process  
 
 ---
 
 ### ✅ Next Steps
 
-- Explore predictive modeling using the same dataset
-- Deploy dashboard to Power BI Service for real-time use
+- Learn how to use Python with Pandas library to effectively clean and analyse big datasets
+- Continue to develop my skills in SQL and Tableau
 
