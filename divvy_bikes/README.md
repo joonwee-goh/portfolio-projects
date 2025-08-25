@@ -14,8 +14,8 @@ This folder contains materials created for my Google Data Analytics capstone pro
 As several months of the original data files exceed GitHub's 100mb file limit, I have provided a truncated sample dataset limited to the first 500 rows for each month.
 
 - **Source:** [Divvy System Data Portal](https://divvybikes.com/system-data)
-- **Raw Data:** [`12month_raw_dataset.csv`](divvy_bikes/data)  
-- **Cleaned Data:** [`12month_clean_dataset.csv`](divvy_bikes/data)  
+- **Raw Data:** [`12month_raw_dataset.csv`](data/12month_raw_dataset.csv)  
+- **Cleaned Data:** [`12month_clean_dataset.csv`](data/12month_clean_dataset.csv)  
 - **Cleaning Summary:** Added new columns for further analysis, removed duplicates and entries that do not meet Divvy's user policy. 
 
 ---
@@ -42,8 +42,8 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 🔗 View interactive dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/joon.wee.goh/viz/GoogleCapstone-Divvy/CasualUsersDashboard)
 
 📸 Screenshot:
-![Dashboard Preview](<img width="1154" height="888" alt="image" src="https://github.com/user-attachments/assets/7000f511-688a-46dd-8f18-cf1d483683f6" />
-)
+<img width="1154" height="888" alt="image" src="https://github.com/user-attachments/assets/7000f511-688a-46dd-8f18-cf1d483683f6" />
+
 
 ---
 
