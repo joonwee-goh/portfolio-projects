@@ -1,4 +1,4 @@
-<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/64931e28-781c-4467-9a44-12fd6bedefa7" />
+<img width="300" height="85" alt="image" src="https://github.com/user-attachments/assets/64931e28-781c-4467-9a44-12fd6bedefa7" />
 
 
 ## Divvy Bikes Project 
