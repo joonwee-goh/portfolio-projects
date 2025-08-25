@@ -41,7 +41,7 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 - 📌 **Top 10 Stations For Members Are Clustered In The City Centre**
   -   These stations are located close to transit hubs or school campuses, compared to popular stations for casual users located along the coast line and have recreational areas nearby. This supports the hypothesis that members primarily use the service for their commute to work.
 
-See the [full analysis](SQL/00_Full Analysis and Recommendations.md) and SQL queries in [SQL folder](SQL)
+See the [full analysis](SQL/00_Full_Analysis_and_Recommendations.md) and SQL queries in [SQL folder](SQL)
 
 ---
 
