@@ -1,6 +1,6 @@
 <img width="300" height="85" alt="image" src="https://github.com/user-attachments/assets/64931e28-781c-4467-9a44-12fd6bedefa7" />
 
-# 📊 [Divvy Bikes]
+# 📊 Divvy Bikes
 
 ### 📁 Overview
 This folder contains materials created for my Google Data Analytics capstone project. It documents my thought process throughout the phases of data cleaning, using SQL to query the relational database system (used BigQuery), and finally presenting the insights through data visualisations in Tableau.  
@@ -31,9 +31,9 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 
 ### 📈 Key Insights
 
-- 📌 Insight 1: [Ridership dropped by 83% between September and January due to cold weather ]
-- 📌 Insight 2: [Casual users accounted for 32% of total trips over the past 12 months]
-- 📌 Insight 3: [Weekends are the most popular days for Casual users]
+- 📌 Insight 1: Ridership dropped by 83% between September and January due to cold weather 
+- 📌 Insight 2: Casual users accounted for 32% of total trips over the past 12 months
+- 📌 Insight 3: Weekends are the most popular days for Casual users
 
 ---
 
@@ -41,8 +41,8 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 
 🔗 View interactive dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/joon.wee.goh/viz/GoogleCapstone-Divvy/CasualUsersDashboard)
 
-📸 Screenshot:
-<img width="1154" height="888" alt="image" src="https://github.com/user-attachments/assets/7000f511-688a-46dd-8f18-cf1d483683f6" />
+📸 Dashboard Preview Screenshot:
+<img width="520" height="400" alt="image" src="https://github.com/user-attachments/assets/7000f511-688a-46dd-8f18-cf1d483683f6" />
 
 
 ---
