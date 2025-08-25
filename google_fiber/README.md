@@ -1,4 +1,4 @@
-<img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/d5e4e086-34c1-41a2-9a57-c0de5c11c3c3" />
+<img width="600" height="325" alt="image" src="https://github.com/user-attachments/assets/d5e4e086-34c1-41a2-9a57-c0de5c11c3c3" />
 
 
 ## Google Fiber Project
