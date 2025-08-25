@@ -4,7 +4,7 @@ Full visualisations can be found on [Tableau](https://public.tableau.com/app/pro
 ---
 
 **Monthly Ridership Pattern**
-<img width="687" height="753" alt="image" src="https://github.com/user-attachments/assets/10466525-9819-4ea5-a37c-8475642d85fa" />
+<img width="455" height="500" alt="image" src="https://github.com/user-attachments/assets/10466525-9819-4ea5-a37c-8475642d85fa" />
 - The decline in ridership is likely due to seasonal effects of the cold winter months making cycling less appealing. With temperatures warming up in March, casual ridership is starting to pick up.
 
 **Key Findings**: 
@@ -47,7 +47,7 @@ Casual users ride recreationally along parks or places of attraction, while memb
 ---
 
 **Daily ridership by User type**
-<img width="1134" height="880" alt="Ridership per day" src="https://github.com/user-attachments/assets/a9ff6893-e5d6-41fc-a6f4-6aca5c9ec119" />
+<img width="900" height="700" alt="Ridership per day" src="https://github.com/user-attachments/assets/a9ff6893-e5d6-41fc-a6f4-6aca5c9ec119" />
 
 -  Ridership for casual users pick up towards the end of the week (i.e. Friday, Saturday, Sunday)
 Ridership for members peak over weekdays and dip towards the weekends (i.e. Saturday & Sunday) 
