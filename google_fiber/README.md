@@ -1,4 +1,4 @@
-<img width="1902" height="483" alt="image" src="[https://images.mlssoccer.com/image/private/t_q-best/mls-skc-prd/wpffddqm15zkxwdzuiok.png]>
+<https://images.mlssoccer.com/image/private/t_q-best/mls-skc-prd/wpffddqm15zkxwdzuiok.png]>
 
 ## Google Fiber Project
 
