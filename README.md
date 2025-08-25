@@ -4,5 +4,5 @@ Showcasing capstone projects from Google's Data Analytics and Business Intellige
 - **Divvy Bikes** covers content from the Data Analytics program, with the focus on providing data insights on specific stakeholder questions. It dives deeper in the technical aspects of data cleaning and analysis, using 12 months of real data pulled from https://divvybikes.com/system-data   
   - Tools used: Excel, SQL, Tableau
 
-- **Google Fiber** covers content from the Business Intelligence program, which builds on the Data Analytics course. It focus on providing a macro view on understanding business requirements, to answering stakeholder questions through building interactive dashboards empowering them to easily interpret the data and make data-driven decisions for long-term monitoring. This project uses a small scale, fictional dataset provided by the course.
+- **Google Fiber** covers content from the Business Intelligence program, which builds on the Data Analytics course. It focus on providing a macro view, from understanding business requirements, to answering stakeholder questions through building interactive dashboards. Ultimately, empowering them to easily interpret the data and make data-driven decisions for long-term monitoring. This project uses a small scale, fictional dataset provided by the course.
   - Tools used: Excel, Tableau 
