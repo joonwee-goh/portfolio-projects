@@ -1,4 +1,3 @@
-<img width="1902" height="483" alt="image" src="https://github.com/user-attachments/assets/a5fca19e-f215-420b-bf23-1daa57b89f7f" />
 
 ## Divvy Bikes Project 
 
