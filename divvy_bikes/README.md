@@ -32,11 +32,16 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 
 ### 📈 Key Insights
 
-- 📌 Ridership dropped by 83% between September and January likely due to cold weather 
-- 📌 Casual users accounted for 32% of total trips over the past 12 months
-- 📌 Weekends are the most popular days for Casual users, but the least popular days for Members
+- 📌 **Weekends Are The Most Popular Days For Casual Users**
+  -  On the contrary, weekends are the least popular days for Members suggesting members mainly use Divvy on their commute to work
+  
+- 📌 **Ridership Dropped By 83% Between September And January**
+  -   This is likely due to the cold weather, with casual users seeing the most reduction in rides, indicating casual users are more sensitive to changes in weather patterns than members
 
-See the full SQL queries in [SQL folder](SQL)
+- 📌 **Top 10 Stations For Members Are Clustered In The City Centre**
+  -   These stations are located close to transit hubs or school campuses, compared to popular stations for casual users located along the coast line and have recreational areas nearby
+
+See the full analysis and SQL queries in [SQL folder](SQL)
 
 ---
 
