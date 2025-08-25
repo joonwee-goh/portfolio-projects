@@ -36,7 +36,7 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 - 📌 Casual users accounted for 32% of total trips over the past 12 months
 - 📌 Weekends are the most popular days for Casual users, but the least popular days for Members
 
-See the full SQL workflow in SQL folder
+See the full SQL workflow in [SQL folder](SQL)
 
 ---
 
