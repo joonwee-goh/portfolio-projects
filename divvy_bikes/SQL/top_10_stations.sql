@@ -43,3 +43,4 @@ SELECT
  GROUP BY start_station_name, start_station_id, start_lat, start_lng
  ORDER BY COUNT(start_station_name) DESC
  LIMIT 10
+  -- Possible to display more stations if required
