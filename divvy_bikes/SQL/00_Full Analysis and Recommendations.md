@@ -13,6 +13,7 @@ Casual users are more sensitive to changes in weather patterns than annual membe
 ---
 
 **Rideable Type Usage by User type**
+<img width="1832" height="914" alt="Rideable type" src="https://github.com/user-attachments/assets/959d2ea5-2e8b-4e65-b4c6-66fcb282335a" />
 
 -  Both user types completed more rides using Electric bikes than Classic bikes.
 Casual users had a stronger preference for Electric scooters than members.
@@ -23,6 +24,7 @@ No significant difference in preference for rideable type between the two user t
 ---
 
 **Trip Duration Distribution by User Type**
+<img width="1836" height="914" alt="Trip Duration " src="https://github.com/user-attachments/assets/9e0e0ce5-5cf1-4b84-b0c5-276007dcebf4" />
 
 -  94.5% of trips made by members are completed within 30 minutes, with 99.4% of trips ending within 1 hour.
 -  83.3% of trips made by casual users are completed within 30 minutes, with 94.6% of trips ending within 1 hour.
@@ -33,6 +35,7 @@ Casual users are more likely to take longer trips than members, this might be a 
 ---
 
 **Comparison of the most popular start and end stations** 
+<img width="1405" height="839" alt="Member v Casual stations" src="https://github.com/user-attachments/assets/d583cb1f-4b9c-4a9d-a68c-c6baf2594648" />
 
 -  The 10 most popular start stations are exactly the same as end stations for both members (in green) and casual users (in blue).  
 -  Popular stations for casual users are along the coast line and have recreational areas such as parks or attractions nearby. 
@@ -44,6 +47,7 @@ Casual users ride recreationally along parks or places of attraction, while memb
 ---
 
 **Daily ridership by User type**
+<img width="1134" height="880" alt="Ridership per day" src="https://github.com/user-attachments/assets/a9ff6893-e5d6-41fc-a6f4-6aca5c9ec119" />
 
 -  Ridership for casual users pick up towards the end of the week (i.e. Friday, Saturday, Sunday)
 Ridership for members peak over weekdays and dip towards the weekends (i.e. Saturday & Sunday) 
@@ -54,7 +58,7 @@ Ridership for members peak over weekdays and dip towards the weekends (i.e. Satu
 
 ---
 
-**Top 3 recommendations based on analysis**
+# Top 3 recommendations based on analysis
 Based on the key findings established earlier, the majority of casual users ride recreationally over the weekends, with ridership peaking in warmer months of June and July before starting to decline in the fall. 
 
 **Recommendation 1: Create a tiered subscription plans based on usage**
