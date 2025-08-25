@@ -3,10 +3,10 @@
 # Divvy Bikes
 
 ### 📁 Overview
-This folder contains materials created for my Google Data Analytics capstone project. It documents my thought process throughout the phases of data cleaning, using SQL to query the relational database system (used BigQuery), and finally presenting the insights through data visualisations in Tableau.  
-- Business Task: Identify historical trends on how annual members and casual riders use Divvy bikes differently, in order to support Divvy Bikes overarching strategy of converting casual users (Single-ride pass and Full-day pass) to annual members
-- Dataset used: Divvy bike-sharing data (https://divvybikes.com/system-data), loaded into Google BigQuery for SQL analysis  
-- Tools & technologies: Excel, SQL, Tableau  
+This folder contains materials created for my Google Data Analytics capstone project. It documents my thought process throughout the phases of data cleaning, using SQL to query the database system, and finally presenting the insights through data visualisations in Tableau.
+
+- **Business Task:** Identify historical trends on how annual members and casual riders use Divvy bikes differently, in order to support Divvy Bikes overarching strategy of converting casual users (Single-ride pass and Full-day pass) to annual members
+- Dataset used: Divvy bike-sharing data, loaded into Google BigQuery for SQL analysis  
 
 ---
 
@@ -14,6 +14,8 @@ This folder contains materials created for my Google Data Analytics capstone pro
 As several months of the original data files exceed GitHub's 100mb file limit, I have provided a truncated sample dataset limited to the first 500 rows for each month.
 
 - **Source:** [Divvy System Data Portal](https://divvybikes.com/system-data)
+- **Description:** This dataset contains data from trips made using Divvy bike-sharing system in Chicago. It includes columns such as ride start/end times, station locations, rider types, and more.
+- **Date Range Used:** June 2024 - May 2025
 - **Raw Data:** [`12month_raw_dataset.csv`](data/12month_raw_dataset.csv)  
 - **Cleaned Data:** [`12month_clean_dataset.csv`](data/12month_clean_dataset.csv)  
 - **Cleaning Summary:** Added new columns for further analysis, removed duplicates and entries that do not meet Divvy's user policy. 
@@ -23,17 +25,18 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 ### 🔧 Tools & Technologies
 
 - **Data Cleaning:**  Excel (Power Query)   
-- **Analysis:** SQL 
-- **Visualization:** Tableau   
-- **Reporting:** PDF Executive Summary
+- **Analysis:** Google BigQuery (SQL)
+- **Visualization:** Tableau 
 
 ---
 
 ### 📈 Key Insights
 
-- 📌 Insight 1: Ridership dropped by 83% between September and January due to cold weather 
-- 📌 Insight 2: Casual users accounted for 32% of total trips over the past 12 months
-- 📌 Insight 3: Weekends are the most popular days for Casual users
+- 📌 Ridership dropped by 83% between September and January likely due to cold weather 
+- 📌 Casual users accounted for 32% of total trips over the past 12 months
+- 📌 Weekends are the most popular days for Casual users, but the least popular days for Members
+
+See the full SQL workflow in SQL folder
 
 ---
 
@@ -48,23 +51,17 @@ As several months of the original data files exceed GitHub's 100mb file limit, I
 
 ---
 
-### 📄 Executive Summary
-
-Download the full 1-page summary:  
-📎 [`executive_summary.pdf`](summary/executive_summary.pdf)
-
----
-
 ### 💡 What I Learned
 
 - Applied skills in data cleaning on a real, large-scale dataset
 - Improved on creating data visualisations in Tableau
+- Structuring queries to answer business tasks
 - Recognised first hand how subconscious biases can affect the data analysis process  
 
 ---
 
 ### ✅ Next Steps
 
-- Learn how to use Python with Pandas library to effectively clean and analyse big datasets
+- Learn how to use Python with Pandas library to effectively work with big datasets
 - Continue to develop my skills in SQL and Tableau
 
