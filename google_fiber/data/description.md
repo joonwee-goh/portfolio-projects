@@ -1,4 +1,4 @@
-#*date_created*#: Records the date and the associated number of calls received for each issue type for that day
+##*date_created*: Records the date and the associated number of calls received for each issue type for that day
 
 *contacts_n*: Represents the first contact the customer has after facing this issue
 
